@@ -1,0 +1,16 @@
+# Build output
+target/
+*.class
+
+# CodeQL databases
+demoProject/
+*.codeql-db/
+
+# IDE
+.idea/
+*.iml
+.vscode/
+
+# OS
+Thumbs.db
+.DS_Store
